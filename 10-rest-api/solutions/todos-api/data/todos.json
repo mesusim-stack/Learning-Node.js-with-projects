@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Learn REST basics",
+    "done": true,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Build the to-do API",
+    "done": false,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  }
+]

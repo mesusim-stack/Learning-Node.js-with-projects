@@ -1,0 +1,12 @@
+{
+  "name": "todos-express",
+  "version": "1.0.0",
+  "description": "Lesson 9 exercise - to-do routes with Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

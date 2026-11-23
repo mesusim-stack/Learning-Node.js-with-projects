@@ -1,0 +1,14 @@
+{
+  "name": "capstone-todo-api",
+  "version": "1.0.0",
+  "description": "Capstone project - To-do REST API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

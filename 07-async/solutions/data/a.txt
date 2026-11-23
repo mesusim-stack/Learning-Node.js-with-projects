@@ -1,0 +1,2 @@
+Hello from file A!
+This text was read asynchronously.

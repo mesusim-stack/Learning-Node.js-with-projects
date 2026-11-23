@@ -1,0 +1,12 @@
+{
+  "name": "calculator-solution",
+  "version": "1.0.0",
+  "description": "Lesson 5 solution - a modular calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,2 @@
+Hello from file B!
+Two async reads, one program.

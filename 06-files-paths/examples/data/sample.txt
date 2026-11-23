@@ -1,0 +1,6 @@
+This is a sample text file.
+
+It lives at: 06-files-paths/examples/data/sample.txt
+Our Node script reads it with fs.readFileSync().
+
+Try adding a line to this file and re-running the example.
